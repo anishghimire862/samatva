@@ -1,0 +1,26 @@
+.bg-navbar {
+    background-color: #d6e6fc;
+}
+.white-text {
+    color: #fff !important;
+}
+.bgcolor{
+    background-color: #eaf3ff;
+}
+.bgdark {
+    background-color: #e6ebf2;
+}
+
+.line {
+    width: 100%;
+    height: 1px;
+    border-bottom: 1px dashed #8dcaff;
+    margin: 40px 0;
+}
+
+.title {
+    font-size: 13px;
+    font-weight: bold;
+    color: #737373
+}
+
