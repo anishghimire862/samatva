@@ -25,6 +25,19 @@
 }
 
 .slogan {
-    font-size: 150%;
+    font-size: 35px;
     text-shadow: 2px 1px #fff;
+}
+
+/*
+.selection {
+    background-image: url("../images/selection-one.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    
+}*/
+@media only screen and (max-width: 784px) {
+    .slogan {
+        font-size: 15px;
+    }
 }
